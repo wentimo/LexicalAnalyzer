@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LexicalAnalyzerTest": {
+      "commandName": "Project",
+      "commandLineArgs": "speed=350,family=cat"
+    }
+  }
+}
